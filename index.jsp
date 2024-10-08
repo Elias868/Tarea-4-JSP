@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
-    Created on : 4/10/2024, 5:18:11 p. m.
-    Author     : David Valenzuela
+    Created on : 6/10/2024, 3:14:19 p. m.
+    Author     : Elias Monroy
 --%>
 <%@page import="modelo.Puesto"%>
 <%@page import="modelo.Empleado"%>
