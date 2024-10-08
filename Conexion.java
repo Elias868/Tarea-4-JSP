@@ -10,7 +10,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Davidcv
+ * @author Elias Monroy 
  */
 public class Conexion {
     public Connection conexionBD;
@@ -18,7 +18,7 @@ public class Conexion {
     private final String bd= "db_empresa";
     private final String urlConexion = String.format("jdbc:mysql://localhost:%s/%s?serverTimezone=UTC",puerto, bd);
     private final String usuario = "usr_empresa";
-    private final String contra = "Davidcv#1";
+    private final String contra = "Elias Monroy";
     private final String jdbc ="com.mysql.cj.jdbc.Driver";
     
     public void abrir_conexion(){
